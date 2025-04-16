@@ -47,7 +47,7 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           <div className="w-full h-auto flex justify-center border-PrestigeDarkGrey">
             <img
               src={image}
-              alt="Assetz Micropolis"
+              alt="Assetz Canvs & Cove"
               className=" w-[420px] h-[300px]"
             />
           </div>

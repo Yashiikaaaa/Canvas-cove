@@ -150,8 +150,8 @@ export const SiteVisitForm = ({ sitevisitmodal, setSiteVisitModal }) => {
     const normalizedName = formData.name.trim().toLowerCase();
     const siteVisitTimestamp = Math.floor(startDate.getTime() / 1000);
   
-    const propertyId = "vDJtBNSMTbRpndgM4GRf"; // Example property ID
-    const projectName = "assetz codename micropolis "; // Example project name
+    const propertyId = "86aODC9DyyXfzTsuUPZT"; // Example property ID
+    const projectName = "assetz canvas & cove 2.0 - block a"; // Example project name
   const currentAgent = "yasswanth@truestate.in";
     const payload = {
       name: normalizedName,
