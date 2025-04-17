@@ -27,11 +27,11 @@ export const Location = () => {
             </div>
 
             <ol className='text-left font-body text-xs md:text-base list-disc font-medium pl-1 md:pl-5 hidden sm:block space-y-3'>
-                <li className=''>Right next to Hosa Lake</li>
+                <li className=''>Right next to Begur Lake</li>
                 <li className=''>NICE Ring Road - 3 kms</li>
-                <li className=''>Electronic City FLyover - 5 mins</li>
+                <li className=''>Electronic City Fly-over - 5 mins</li>
                 <li className=''>Singhasandra Metro Station- 2 kms</li>
-                <li className=''>Kormangala- 7 kms</li>
+                <li className=''>Koramangala- 7 kms</li>
                 {/* <li className=''>10 mins- Decathon Chandapura Market </li> */}
             </ol>
           </div>
