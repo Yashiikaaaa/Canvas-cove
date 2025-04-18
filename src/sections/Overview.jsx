@@ -17,15 +17,16 @@ export const Overview = ({ contactmodal, setContactModal }) => {
           </h1>
           <p className="max-w-2xl md:text-base text-sm text-black font-body font-light">
           <span className="font-body font-bold text-xs md:text-lg ">
-         Assetz Canvas & Cove – luxury Apartments in Begur, Off Hosur Road <p>Discover a 17-acre township in Begur, with a 137 acre lake view. </p>
-
+          Experience upscale living at Canvas & Cove, a thoughtfully planned 17-acre township overlooking a serene 137-acre lake in Begur, just off Hosur Road.
           </span>
           <br />
           
             <span>
-            <p>The property boasts an impressive 85% dedicated to greenery, landscaping, a well-equipped clubhouse, and a picturesque waterfront park.   </p>
-            <br/>
-            <p>Structure G + 28</p><>Possession 2027</>
+            <p>With 85% open space, the community is designed for wellness and leisure, featuring expansive greenery, landscaped gardens, a modern clubhouse, and a scenic lakefront park.  </p>
+            <br />
+            <p>-Structure G + 28</p><p>-Possession 2027</p>
+            <br />
+           <p> An ideal blend of nature, design, and location — perfect for families and future-focused investors.</p>
 
             
 
